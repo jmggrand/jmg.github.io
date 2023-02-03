@@ -125,7 +125,7 @@
 					<div class="section__img">
 						<div class="section__img-inner" style="background-image: url(img/JMGGrand/M.jpg)"></div>
 					</div>
-					<!--<div class="section__more">
+					<div class="section__more">
 						<div class="section__more-inner section__more-inner--bg1">
 							<span class="section__more-text">Want to know more?</span>
 							<a href="https://themewagon.com/theme_tag/free/" target="_blank" class="section__more-link">
@@ -133,7 +133,7 @@
 								<svg class="icon icon--arrowlong"><use xlink:href="#icon-arrowlong"></use></svg>
 							</a>
 						</div>
-					</div>-->
+					</div>
 					<div class="section__expander"></div>
 					<ul class="section__facts">
 						<li class="section__facts-item">
