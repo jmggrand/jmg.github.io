@@ -125,27 +125,27 @@
 					<div class="section__img">
 						<div class="section__img-inner" style="background-image: url(img/JMGGrand/M.jpg)"></div>
 					</div>
-					<!--<div class="section__more">
+					<div class="section__more">
 						<div class="section__more-inner section__more-inner--bg1">
 							<span class="section__more-text">Want to know more?</span>
-							<a href="https://themewagon.com/theme_tag/free/" target="_blank" class="section__more-link">
-								<span class="section__more-linktext">Explore all hikes</span>
+							<a href="shorturl.at/bpX58" target="_blank" class="section__more-link">
+								<span class="section__more-linktext">Explore more places</span>
 								<svg class="icon icon--arrowlong"><use xlink:href="#icon-arrowlong"></use></svg>
 							</a>
 						</div>
-					</div>-->
+					</div>
 					<div class="section__expander"></div>
 					<ul class="section__facts">
 						<li class="section__facts-item">
-							<h3 class="section__facts-title">John Sullivan's memorial</h3>
+							<h4 class="section__facts-title">John Sullivan's memorial</h4>
 							<span class="section__facts-detail"> John Sullivan was an English civil servant, the first to settle in Ooty, and the reason why the Nilgiris are the way they are today.</span>
 						</li>
 						<li class="section__facts-item">
-							<h3 class="section__facts-title">Catherine Falls</h3>
+							<h4 class="section__facts-title">Catherine Falls</h4>
 							<span class="section__facts-detail">The upper fall drops to the floor, and is the second-highest in the Nilgiri Mountains.</span>
 						</li>
 						<li class="section__facts-item">
-							<h3 class="section__facts-title">Longwood Shola Reserve Forest</h3>
+							<h4 class="section__facts-title">Longwood Shola Reserve Forest</h4>
 							<span class="section__facts-detail">Home to the threatened Nilgiri marten and other rare fauna and flora, the forest patch is rich in biodiversity.</span>
 						</li>
 						<li class="section__facts-item section__facts-item--clickable" data-gallery="gallery1">
